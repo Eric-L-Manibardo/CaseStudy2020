@@ -3,11 +3,7 @@
 > It contains four already furnished datasets for short term traffic forecasting
 
 
-<object data="https://github.com/erasperiko/CaseStudy2020/blob/master/expsetup.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/erasperiko/CaseStudy2020/blob/master/expsetup.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/erasperiko/CaseStudy2020/blob/master/expsetup.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+> <img src="https://github.com/erasperiko/CaseStudy2020/blob/master/Experimental%20Set%20Up.png" width="600" height="400"></img>
 
 
 
