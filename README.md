@@ -2,8 +2,7 @@
 
 > It contains four already furnished datasets for short term traffic forecasting
 
-> <img src="https://github.com/erasperiko/CaseStudy2020/blob/master/expsetup.pdf" width="600" height="400"></img>
-
+![Image of Yaktocat](https://github.com/erasperiko/CaseStudy2020/blob/master/expsetup.pdf)
 
 
 
