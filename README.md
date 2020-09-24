@@ -6,7 +6,7 @@ The following figure describes the proposed experimental setup. For each traffic
 <img src="https://github.com/erasperiko/CaseStudy2020/blob/master/Experimental%20Set%20Up.png" width="700" height="800" ></img>
 <p>
 
-#Dataset overview#
+# Dataset overview
 
 | Location         | Data nature |  Scope  | Sensor type | Time resolution | Year |                              Data source                              |
 |------------------|:-----------:|:-------:|:-----------:|:---------------:|:----:|:---------------------------------------------------------------------:|
