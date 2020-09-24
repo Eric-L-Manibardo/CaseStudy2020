@@ -2,17 +2,14 @@
 
 > It contains four already furnished datasets for short term traffic forecasting
 
-![Image of Yaktocat](https://github.com/erasperiko/CaseStudy2020/blob/master/expsetup.pdf)
+
+<object data="https://github.com/erasperiko/CaseStudy2020/blob/master/expsetup.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/erasperiko/CaseStudy2020/blob/master/expsetup.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/erasperiko/CaseStudy2020/blob/master/expsetup.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
-
-
-
-The name of each milepost header contains 11 characters:
-  * 1 char: 'd' or 'i', i.e. decreasing direction or increasing direction.
-  * 2-4 chars: route name, e.g. '405' demonstrates the route I-405.
-  * 5-6 chars: 'es' has no meanings here.
-  * 7-11 chars: milepost, e.g. '15036' demonstrates the 150.36 milepost.
 
 ---
 
