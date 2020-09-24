@@ -3,7 +3,7 @@
 > It contains four already furnished datasets for short term traffic forecasting
 
 
-> <img src="https://github.com/erasperiko/CaseStudy2020/blob/master/Experimental%20Set%20Up.png" width="600" height="400"></img>
+> <img src="https://github.com/erasperiko/CaseStudy2020/blob/master/Experimental%20Set%20Up.png" ></img>
 
 
 
