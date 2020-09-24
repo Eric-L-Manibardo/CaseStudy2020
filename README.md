@@ -6,6 +6,13 @@ The following figure describes the proposed experimental setup. For each traffic
 <img src="https://github.com/erasperiko/CaseStudy2020/blob/master/Experimental%20Set%20Up.png" width="700" height="800" ></img>
 <p>
 
+| Location         | Data nature |  Scope  | Sensor type | Time resolution | Year |                              Data source                              |
+|------------------|:-----------:|:-------:|:-----------:|:---------------:|:----:|:---------------------------------------------------------------------:|
+| Madrid city      |     Flow    |  Urban  |   Roadside  |        15       | 2018 | https://datos.madrid.es/portal/site/egob/                             |
+| California state |     Flow    | Freeway |   Roadside  |        5        | 2017 | http://pems.dot.ca.gov/                                               |
+| New York city    |    Speed    |  Urban  |   Roadside  |        5        | 2016 | https://www.kaggle.com/crailtap/nyc-real-time-traffic-speed-data-feed |
+| Seattle city     |    Speed    | Freeway |   Roadside  |        5        | 2015 | https://github.com/zhiyongc/Seattle-Loop-Data                         |
+
 
 ---
 
