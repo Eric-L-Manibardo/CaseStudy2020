@@ -66,7 +66,8 @@ def build_Attention(batch_size, n_timesteps, n_features, h1, h2, h3,f1,f2,k1,k2,
     output = keras.layers.Dense(1)(hidden3)     
     model = keras.models.Model(inputs=input1, outputs=output)
     model.compile(loss='mse', optimizer= 'adam')
-     
+    model.summary()
+    
     return model
     
 ##############################################
