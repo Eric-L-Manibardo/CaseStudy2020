@@ -29,9 +29,14 @@ All datasets, Python source code, details on the hyper-parameters sought for eve
 ---
 #### If you use any dataset in your work, please cite the following reference:
 ###### Reference:
-
+https://arxiv.org/abs/2012.02260
 ###### BibTex:
 ```
-
+@article{manibardo2020deep,
+  title={Deep Learning for Road Traffic Forecasting: Does it Make a Difference?},
+  author={Manibardo, Eric L and La{\~n}a, Ibai and Del Ser, Javier},
+  journal={arXiv preprint arXiv:2012.02260},
+  year={2020}
+}
 ```
 #### Note: These datasets should only be used for research.
